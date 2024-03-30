@@ -1,10 +1,15 @@
 Magical Arena
+
 Welcome to the Magical Arena! This program simulates battles between players in an arena until one of them loses all their health.
+
 Problem Statement
+
 In the Magical Arena, every player is defined by three attributes:
 
 -> Health: The player's remaining health points. The player dies if their health reaches 0.
+
 -> Strength: The player's defensive capability. It affects how much damage the player can resist.
+
 -> Attack: The player's offensive capability. It determines how much damage the player deals to their opponent.
 Players take turns attacking each other. Each attack involves rolling dice to determine the damage dealt and defended.
 
